@@ -15,8 +15,7 @@ Exemple de microservices créés en Node.js (Communication synchrone):
    npm init
    npm install express mongoose nodemon
    ```
-
-   b. Ajouter à la racine de ce dossier un fichier vide `index.js`.
+`
 
 2. Commande-service :
 
