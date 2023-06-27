@@ -7,7 +7,6 @@ async function startServer() {
   const app = express();
   const PORT = process.env.PORT_ONE || 4001;
 
-  // Connect to the database
   mongoose.set('strictQuery', true);
   try {
     await mongoose.connect("mongodb://127.0.0.1:27017/commande-service", {
