@@ -5,8 +5,6 @@
 - Chaque service aura sa propre base de données sous MongoDB.
 - Les deux services seront considérés comme deux applications séparées, chacune expose son API et écoute sur son propre port.
 
----
-
 1. Produit-service :
 
    a. Sous le dossier `produit-service`, ouvrir le terminal et exécuter les commandes suivantes :
