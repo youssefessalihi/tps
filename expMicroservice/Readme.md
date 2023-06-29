@@ -1,4 +1,4 @@
-### Exemple de microservices créés en Node.js (Communication synchrone):
+## Exemple de microservices créés en Node.js (Communication synchrone):
 
 - Soit une simple partie d’application e-commerce gérant les produits et leurs commandes.
 - L’application sera décomposée, dans un premier temps, en deux microservices : produit et commande.
