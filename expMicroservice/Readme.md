@@ -24,5 +24,3 @@ Exemple de microservices créés en Node.js (Communication synchrone):
    npm init
    npm install express mongoose nodemon axios
    ```
-
-### DDOWFS
